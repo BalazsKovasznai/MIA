@@ -1,2 +1,2 @@
 
-print("Hello Világ!!!")
+print("Hello Kovásznai Balázs!!!")
